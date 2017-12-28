@@ -1,0 +1,10 @@
+insert into Charity_Organizator (C_id) values (1);
+insert into Charity_Organizator (C_id) values (2);
+insert into Charity_Organizator (C_id) values (3);
+insert into Charity_Organizator (C_id) values (4);
+insert into Charity_Organizator (C_id) values (5);
+insert into Charity_Organizator (C_id) values (6);
+insert into Charity_Organizator (C_id) values (7);
+insert into Charity_Organizator (C_id) values (8);
+insert into Charity_Organizator (C_id) values (9);
+insert into Charity_Organizator (C_id) values (10);
